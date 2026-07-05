@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hey, thanks for stopping by
 
-<!--
-**akshaykona6/akshaykona6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my repos here are private — they're coursework and research from 
+RIT, kept private at my professor's request to protect academic integrity 
+for future students. Nothing personal, just trying to do right by the class!
 
-Here are some ideas to get you started:
+**Recruiter or hiring manager?** Happy to walk you through any of it live — 
+reach out at akshaykona6@gmail.com and we could schedule a call!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fellow engineer?** Always down to connect, swap notes, or nerd out over 
+a project — feel free to reach out too.
+
+Right now I'm teaching myself **computer architecture** on the side, so 
+that's likely what shows up here next. 🛠️
